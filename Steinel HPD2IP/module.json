@@ -1,0 +1,11 @@
+{
+    "id": "{210D2140-133F-4376-AD99-C4462DE2E524}",
+    "name": "Steinel HPD2 IP",
+    "type": 3,
+    "vendor": "Steinel Systems",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ST"
+}

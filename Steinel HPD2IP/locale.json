@@ -1,0 +1,25 @@
+{
+    "translations": {
+        "de": { 
+            "IP-Adress": "IP-Adresse",
+            "Admin Password": "Admin Passwort",
+            "Update Interval": "Aktualisierungsintervall",
+            "seconds": "Sekunden",
+            "Update Now": "Jetzt aktualisieren",
+            "Inactive": "Inaktiv",
+            "LED": "LED",
+            "Detected Persons": "Entdeckte Personen",
+            "Detected Persons - Zone 1": "Entdeckte Personen - Zone 1",
+            "Detected Persons - Zone 2": "Entdeckte Personen - Zone 2",
+            "Detected Persons - Zone 3": "Entdeckte Personen - Zone 3",
+            "Detected Persons - Zone 4": "Entdeckte Personen - Zone 4",
+            "Detected Persons - Zone 5": "Entdeckte Personen - Zone 5",
+            "Illuminance": "Beleuchtung",
+            "Temperature": "Temperatur",
+            "Humidity": "Luftfeuchtigkeit",
+            "Received Data": "Empfangene Daten",
+            "Getting data failed": "Abfrage der Daten ist gescheitert",
+            "Could not read data from device: ": "Konnte Daten vom Gerät nicht auslesen: "
+        }
+    }
+}

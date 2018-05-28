@@ -1,0 +1,27 @@
+{
+    "elements": [
+        {
+            "type": "ValidationTextBox",
+            "name": "IPAdress",
+            "caption": "IP-Adress"
+        },
+        {
+            "type": "PasswordTextBox",
+            "name": "AdminPassword",
+            "caption": "Admin Password"
+        },
+        {
+            "type": "NumberSpinner",
+            "name": "UpdateInterval",
+            "suffix": "seconds",
+            "caption": "Update Interval"
+        }
+    ],
+    "actions": [
+        {
+            "type": "Button",
+            "caption": "Update Now",
+            "onClick": "ST_UpdateData($id)"
+        }
+    ]
+}
